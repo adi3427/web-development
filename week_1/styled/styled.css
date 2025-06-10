@@ -1,0 +1,88 @@
+body {
+  background-image: url("https://wallpaperaccess.com/full/3435.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+
+h1 {
+  font-size: 2.5em;
+  color: #06015d;
+  margin-bottom: 10px;
+}
+
+h2 {
+  color: #85cc00;
+  margin-top: 40px;
+}
+
+p {
+  max-width: 700px;
+  margin: 0 auto 20px;
+  font-size: 1.1em;
+  padding: 10px;
+}
+
+ul {
+  list-style-type: circle;
+  padding-left: 0;
+}
+
+li {
+  margin: 8px 0;
+  font-size: 1em;
+}
+
+table {
+  margin: 20px auto;
+  border-collapse: collapse;
+  width: 90%;
+  max-width: 800px;
+  background-color: #ffffff;
+  border: 2px solid #79ad00;
+  box-shadow: 0 2px 5px rgba(20, 19, 19, 0.1);
+}
+
+th, td {
+  padding: 12px 15px;
+  border: 1px solid #ccc;
+}
+
+th {
+  background-color: #a7ad00;
+  color: white;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+a {
+  color: #0066cc;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover {
+  color: #003366;
+}
+
+img {
+  margin: 20px auto;
+  display: block;
+  border-radius: 10px;
+  border: 3px solid #2300ad;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+
+p:last-of-type {
+  font-style: italic;
+  font-size: 1.1em;
+  color: #555555;
+}
+
+
+

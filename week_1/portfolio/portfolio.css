@@ -1,0 +1,88 @@
+body {
+  font-family: Arial, sans-serif;
+  background: url('img2.jpeg') no-repeat center center fixed;
+  background-size: cover;
+  color: #f8f5f5;
+  margin: 0;
+  padding: 20px;
+}
+
+header {
+  text-align: center;
+  background-color: rgba(20, 40, 57, 0.9);
+  color: white;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 2.5em;
+}
+
+header p {
+  font-size: 1.1em;
+}
+
+.social-links {
+  margin-top: 10px;
+}
+
+.social-links a {
+  color: #146558;
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+.social-links a:hover {
+  text-decoration: underline;
+}
+
+section {
+  background-color: rgba(237, 235, 235, 0.251); 
+  padding: 20px;
+  margin: 20px auto;
+  border-radius: 8px;
+  max-width: 800px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+h2 {
+  color: #162951;
+  margin-top: 0;
+}
+
+.profile {
+  text-align: center;
+}
+
+.profile img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  border: 3px solid #062e4f;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+li {
+  margin-bottom: 8px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+th, td {
+  border: 1px solid #33168c;
+  padding: 10px;
+  text-align: left;
+}
+
+th {
+  background-color: #1a2f8a;
+}
